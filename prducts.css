@@ -39,6 +39,10 @@ li :hover{
     background-color: rgb(165, 136, 42);
 }
 
+h1{
+    display: flex;
+    justify-content: center;
+}
 .one {
 
     display: grid;
@@ -128,4 +132,17 @@ li :hover{
 
     margin: 20px;
     border-radius: 4px;
+}
+
+.footer {
+    margin-bottom: 80px;
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    /* max-width: 1200px; */
+    margin: auto;
 }
