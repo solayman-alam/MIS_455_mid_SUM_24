@@ -71,3 +71,27 @@ img{
     font-weight: 400;
     font-style: normal;
   }
+
+  .secondPara{
+    border: 3px solid ;
+    
+    background-color: rgb(250, 203, 143);
+    margin: 5px;
+
+    padding: 5px;
+    padding-right: 3px;
+
+
+  }
+
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    /* max-width: 1200px; */
+    margin: auto;
+}
